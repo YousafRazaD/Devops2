@@ -1,0 +1,8 @@
+version: "3"
+
+services:
+  nodejs:
+    image: yousafq
+    container_name: devops1
+    ports:
+      - "3214:3214"
